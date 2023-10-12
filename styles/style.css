@@ -37,10 +37,12 @@ header {
 }
 
 .signature {
-    font-family: 'Shadows Into Light', cursive;
-    font-size: 34px;
-    color: rgba(109,0,28,0.85);
-}
+  font-family: "DoorsDefinitiveRegularr"; 
+  src: url("../fonts/DoorsDefinitiveRegularr.ttf") format("truetype"); 
+  font-size: 34px;
+  font-style: normal; 
+  font-weight: normal; 
+} 
 
 .main-content {
     height: auto;
@@ -146,11 +148,3 @@ footer {
     width: 57px;
 }
 
-@font-face {
-  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
-  font-family: "DoorsDefinitiveRegularr"; 
-  // адрес шрифта и тип 
-  src: url("../fonts/DoorsDefinitiveRegularr.ttf") format("truetype"); 
-  font-style: normal; 
-  font-weight: normal; 
-} 
