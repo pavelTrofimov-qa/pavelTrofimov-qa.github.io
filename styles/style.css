@@ -145,3 +145,12 @@ footer {
     height: 57px;
     width: 57px;
 }
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом) 
+  font-family: "DoorsDefinitiveRegularr"; 
+  // адрес шрифта и тип 
+  src: url("../fonts/DoorsDefinitiveRegularr.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+} 
