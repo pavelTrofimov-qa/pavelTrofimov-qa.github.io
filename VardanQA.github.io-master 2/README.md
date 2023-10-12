@@ -1,2 +1,0 @@
-# VardanMangasaryan.github.io
-CV
