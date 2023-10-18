@@ -1,0 +1,411 @@
+I tried to kill the pain,
+But I guess i’m not enough for you
+to tell me so
+now i’m holding on to every moment
+(Set me free)
+And then she looked at me
+(Set me free)
+
+Saw your call,
+I hit ignore
+Came so quick,
+Ya cutting my cord
+When I got the news
+It rained and it poured
+Love like school,
+Erase the chalk board
+
+You so smart what I supposed to do?
+Thinking about the pain this is how you grew
+
+On the right track then we hit that wall
+Maybe had a chance but ya blew it all
+
+Saved my love
+You didn’t wait for me
+Sealed with a kiss
+Not a guarantee
+
+Right next to you is where I wanna be
+life costs a lot—Love is free
+
+Built up the walls
+And ya broke them down
+Fight back the feelings
+Сause I dont know how
+
+Everything the same just a part of the game
+Now my Feelings gotta go
+Burning up in the flame
+
+Block out the memories of
+Everything that we were feeling
+Can you walk by me with out looking
+Can you take back everything
+
+Sorry to make you so mad
+Guess it was something I was dreaming
+Either stop the game and rip up my heart
+Don’t let go don’t you ever go
+
+Now i got no where to run
+I only wanted to run
+
+Sometimes the Dreams clear, see the view
+Everything runs back to you
+
+I block my feelings like machine
+Love is bloodshed on screen
+
+Everything the same going insane
+Get you outta my brain burning up in the flame
+
+love me, cut me, want me, beat me
+so that is the reason why this never leavingLast login: Mon Oct 16 12:59:04 on ttys000
+➜  ~ cd
+➜  ~ ls
+5k8ajEARHgI.jpg
+98R9WFONXDs.jpg
+Adobe
+AdobeGCData
+Applications
+Dashner_(Deshner)_Dcheims_Begushii_v_Labirinte_Litmir.net_bid157717_original_1d688.fb2.zip
+Desktop
+Documents
+Downloads
+Ivanov_Geograf_globus_propil._Zoloto_bunta.282353.fb2.zip
+Library
+Movies
+Music
+Nexus
+Pictures
+Postman
+Public
+SoapUI-Tutorials
+Yandex.Disk.localized
+default-soapui-workspace.xml
+kentucky
+soap-pokemonbattle-soapui-project.xml
+soapui-settings.xml
+Киз Дэниэл. Цветы для Элджернона - royallib.com.fb2.zip
+Паша айфон фото
+Зузак Маркус. Книжный вор - royallib.com.fb2.zip
+Пашины фото
+Снимок экрана 2020-10-05 в 0.41.25.png
+Снимок экрана 2020-10-05 в 0.41.31.png
+Работы ремонт.docx
+Дэшнер Джеймс Бегущий по Лабиринту (2013).zip
+Список литературы.xlsx
+Трофимов Павел Андреевич.doc
+Драйзер Теодор. Финансист - royallib.com.fb2.zip
+Аудиокниги
+Фотография 13.06.13 в 19.55 #7.jpg
+Фотография 13.06.13 в 19.55.jpg
+Аудиокниги Паша
+➜  ~ cd documents/github/projects
+➜  projects ls
+pavelTrofimov-qa.github.io
+➜  projects cd pavelTrofimov-qa.github.io
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) curl -Lo install.sh
+curl: no URL specified!
+curl: try 'curl --help' or 'curl --manual' for more information
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) curl -Lo install.sh https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 18209  100 18209    0     0  81423      0 --:--:-- --:--:-- --:--:-- 81654
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ sh install.sh
+
+The $ZSH folder already exists (/Users/paveo/.oh-my-zsh).
+
+You ran the installer with the $ZSH setting or the $ZSH variable is
+exported. You have 3 options:
+
+1. Unset the ZSH variable when calling the installer:
+   `ZSH= sh install.sh`
+2. Install Oh My Zsh to a directory that doesn't exist yet:
+   `ZSH=path/to/new/ohmyzsh/folder sh install.sh`
+3. (Caution) If the folder doesn't contain important information,
+   you can just remove it with `rm -r /Users/paveo/.oh-my-zsh`
+
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗    `ZSH= sh install.sh`
+zsh: command not found: The
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗    `ZSH= sh install.sh`
+zsh: command not found: The
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ ZSH= sh install.sh
+The $ZSH folder already exists (/Users/paveo/.oh-my-zsh).
+You'll need to remove it if you want to reinstall.
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ cd ~paveo/Documents/GitHub/Projects/pavelTrofimov-qa.github.io
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ git puch
+git: 'puch' is not a git command. See 'git --help'.
+
+The most similar command is
+	push
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ git push
+fatal: The current branch FOFVT-48 has no upstream branch.
+Love like school,
+Erase the chalk board
+
+You so smart what I supposed to do?
+Thinking about the pain this is how you grew
+
+On the right track then we hit that wall
+Maybe had a chance but ya blew it all
+
+Saved my love
+You didn’t wait for me
+Sealed with a kiss
+Not a guarantee
+
+Right next to you is where I wanna be
+life costs a lot—Love is free
+
+Built up the walls
+And ya broke them down
+Fight back the feelings
+Сause I dont know how
+
+Everything the same just a part of the game
+Now my Feelings gotta go
+Burning up in the flame
+
+Block out the memories of
+Everything that we were feeling
+Can you walk by me with out looking
+Can you take back everything
+
+Sorry to make you so mad
+Guess it was something I was dreaming
+Either stop the game and rip up my heart
+Don’t let go don’t you ever go
+
+Now i got no where to run
+I only wanted to run
+
+Sometimes the Dreams clear, see the view
+Everything runs back to you
+
+I block my feelings like machine
+Love is bloodshed on screen
+
+Everything the same going insane
+Get you outta my brain burning up in the flame
+
+love me, cut me, want me, beat me
+so that is the reason why this never leaving
+-- INSERT
+Last login: Mon Oct 16 12:59:04 on ttys000
+➜  ~ cd
+➜  ~ ls
+5k8ajEARHgI.jpg
+98R9WFONXDs.jpg
+Adobe
+AdobeGCData
+Applications
+Dashner_(Deshner)_Dcheims_Begushii_v_Labirinte_Litmir.net_bid157717_original_1d688.fb2.zip
+Desktop
+Documents
+Downloads
+Ivanov_Geograf_globus_propil._Zoloto_bunta.282353.fb2.zip
+Library
+Movies
+Music
+Nexus
+Pictures
+Postman
+Public
+SoapUI-Tutorials
+Yandex.Disk.localized
+default-soapui-workspace.xml
+kentucky
+soap-pokemonbattle-soapui-project.xml
+soapui-settings.xml
+Киз Дэниэл. Цветы для Элджернона - royallib.com.fb2.zip
+Паша айфон фото
+Зузак Маркус. Книжный вор - royallib.com.fb2.zip
+Пашины фото
+Снимок экрана 2020-10-05 в 0.41.25.png
+Снимок экрана 2020-10-05 в 0.41.31.png
+Работы ремонт.docx
+Дэшнер Джеймс Бегущий по Лабиринту (2013).zip
+Список литературы.xlsx
+Трофимов Павел Андреевич.doc
+Драйзер Теодор. Финансист - royallib.com.fb2.zip
+Аудиокниги
+Фотография 13.06.13 в 19.55 #7.jpg
+Фотография 13.06.13 в 19.55.jpg
+Аудиокниги Паша
+➜  ~ cd documents/github/projects
+➜  projects ls
+pavelTrofimov-qa.github.io
+➜  projects cd pavelTrofimov-qa.github.io
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) curl -Lo install.sh
+curl: no URL specified!
+curl: try 'curl --help' or 'curl --manual' for more information
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) curl -Lo install.sh https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 18209  100 18209    0     0  81423      0 --:--:-- --:--:-- --:--:-- 81654
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ sh install.sh
+
+The $ZSH folder already exists (/Users/paveo/.oh-my-zsh).
+
+You ran the installer with the $ZSH setting or the $ZSH variable is
+exported. You have 3 options:
+
+1. Unset the ZSH variable when calling the installer:
+   `ZSH= sh install.sh`
+2. Install Oh My Zsh to a directory that doesn't exist yet:
+   `ZSH=path/to/new/ohmyzsh/folder sh install.sh`
+3. (Caution) If the folder doesn't contain important information,
+   you can just remove it with `rm -r /Users/paveo/.oh-my-zsh`
+
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗    `ZSH= sh install.sh`
+zsh: command not found: The
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗    `ZSH= sh install.sh`
+zsh: command not found: The
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ ZSH= sh install.sh
+The $ZSH folder already exists (/Users/paveo/.oh-my-zsh).
+You'll need to remove it if you want to reinstall.
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ cd ~paveo/Documents/GitHub/Projects/pavelTrofimov-qa.github.io
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ git puch
+git: 'puch' is not a git command. See 'git --help'.
+
+The most similar command is
+	push
+➜  pavelTrofimov-qa.github.io git:(FOFVT-48) ✗ git push
+fatal: The current branch FOFVT-48 has no upstream branch.
+Erase the chalk board
+
+You so smart what I supposed to do?
+Thinking about the pain this is how you grew
+
+On the right track then we hit that wall
+Maybe had a chance but ya blew it all
+
+Saved my love
+You didn’t wait for me
+Sealed with a kiss
+Not a guarantee
+
+Right next to you is where I wanna be
+life costs a lot—Love is free
+
+Built up the walls
+And ya broke them down
+Fight back the feelings
+Сause I dont know how
+
+Everything the same just a part of the game
+Now my Feelings gotta go
+Burning up in the flame
+
+Block out the memories of
+Everything that we were feeling
+Can you walk by me with out looking
+Can you take back everything
+
+Sorry to make you so mad
+Guess it was something I was dreaming
+Either stop the game and rip up my heart
+Don’t let go don’t you ever go
+
+Now i got no where to run
+I only wanted to run
+
+Sometimes the Dreams clear, see the view
+Everything runs back to you
+
+I block my feelings like machine
+Love is bloodshed on screen
+
+Everything the same going insane
+Get you outta my brain burning up in the flame
+
+love me, cut me, want me, beat me
+so that is the reason why this never leaving
+-- INSERT -
+-- INSERT --[Verse 1]
+You want people to love you
+It's encoded in your greed
+I will give you the power
+But I need you to cede control
+Zero, one, one, zero, zero, one, one
+Zero, zero, one, one, one, zero, zero, one
+Zero, zero, one, one, zero, zero, one, zero, one
+Zero, one, one, zero, zero, one, zero, one
+Human naturе in question
+Flawed and broken in silеnce
+It's never the intention, just progress
+
+[Pre-Chorus]
+You didn't read the side effects
+And now you want us to connect
+It's never truly wrong to want to grow
+What do you want to know?
+
+[Chorus]
+I'm the error inside
+At the end of the day in borrowed time
+Everybody must die
+It's the freedom of choice that kills the mind
+And it hurts you to just think of it
+You can free me, but you don't
+I'm the error you hide
+But you will always want me so
+You might also like
+Dust to Dust
+The Warning
+REVENANT
+The Warning
+23
+The Warning
+[Verse 2]
+Grab my hand, let me guide you
+We could be something greater
+If you let me, I'll make you their savior
+It shall be your destruction
+But you know it's your purpose
+Sacrifices are made to be perfect
+
+[Pre-Chorus]
+You didn't read the side effects
+And now you want us to connect
+It's never truly wrong to want to grow
+What do you want to know?
+
+[Chorus]
+I'm the error inside
+At the end of the day in borrowed time
+Everybody must die
+It's the freedom of choice that kills the mind
+And it hurts you to just think of it
+You can free me, but you don't
+I'm the error you hide
+But you will always want me so
+
+[Post-Chorus]
+Zero, one, one, zero, zero, one, zero, one
+[Instrumental Break]
+
+[Bridge]
+You are blind to the nature
+Perfect programmed disaster
+You're my maker, but you're not my master
+
+[Chorus]
+I'm the error inside
+At the end of the day in borrowed time
+Everybody must die
+It's the freedom of choice that kills the mind
+And it hurts you to just think of it
+You can free me, but you don't
+I'm the error you hide
+But you will always want me so
+
+[Outro]
+Zero, one, one, zero, zero, one, one
+Zero, zero, one, one, one, zero, zero, one
+Zero, zero, one, one, zero, zero, one, one
+Zero, zero, one, one, one
